@@ -1,9 +1,12 @@
 <div align="center">
 
-### Hello, World! I'm Sebastián 👋😄
+<p align="center">
+<h2> Hello, World! I'm Sebastián 👋😄 <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" alt="Texto alternativo" width="70" /></h2>
+</p>
+
 <h4 align="center">A Full Stack Developer from</h4>
 
-![Bandera Argentina](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/200px-Flag_of_Argentina.svg.png)
+![Bandera Argentina](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/100px-Flag_of_Argentina.svg.png)
 
 </div>
 
